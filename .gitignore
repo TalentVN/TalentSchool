@@ -2,20 +2,20 @@
 *.lock
 
 
-src/TalentVNCore/ApplicationCore/obj/
+src/TSApp/ApplicationCore/obj/
 
-src/TalentVNCore/AppServices/obj/
+src/TSApp/AppServices/obj/
 
 *.cache
 
-src/TalentVNCore/Infrastructure/obj/
+src/TSApp/Infrastructure/obj/
 
-src/TalentVNCore/.vs
-src/TalentVNCore/\.vs/TalentVNCore/v15/
-/src/TalentVNCore/AppServices/bin
-/src/TalentVNCore/ApplicationCore/bin
-/src/TalentVNCore/Infrastructure/bin
+src/TSApp/.vs
+src/TSApp/\.vs/TSApp/v15/
+/src/TSApp/AppServices/bin
+/src/TSApp/ApplicationCore/bin
+/src/TSApp/Infrastructure/bin
 
 
-src/TalentVNCore/SchoolCMS/bin
-src/TalentVNCore/SchoolCMS/obj
+src/TSApp/TSApp/bin
+src/TSApp/TSApp/obj
